@@ -1,0 +1,9 @@
+Command : python chatbot.py
+Python  : Python 3.14.5
+Run at  : 2026-11-14 11:35:16 WCAST
+Input   : Alex
+----------------------------------------
+Hello! What is your name?
+> Alex
+Nice to meet you, Alex!
+Today's date is November 14, 2026.
